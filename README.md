@@ -1,2 +1,2 @@
-# pdf-tools
-I developed a basic PDF tool app via using Python
+# pdf-divider
+I developed a basic PDF divider app via using Python
