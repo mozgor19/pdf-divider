@@ -45,7 +45,7 @@ pip install pyinstaller
 ## Adım 2: Uygulamanın Paketlenmesi
 
 ```bash
-pyinstaller --onefile --windowed --icon=logo.ico --name=pdf_divider myapp.py
+pyinstaller --onefile --windowed --icon=logo.ico --name=pdf_divider app.py
 ```
 
 Bu komut, PyQt5 uygulamanızı platforma özgü bir yürütülebilir dosyaya dönüştürecektir. Bu işlem tamamlandığında, "dist" adlı yeni bir klasör oluşturulur ve bu klasörde dönüştürülmüş uygulama bulunur.
