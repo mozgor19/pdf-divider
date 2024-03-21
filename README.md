@@ -28,7 +28,7 @@ pip install -r requirements.txt
 3. Uygulamayı başlatın:
 
 ```bash
-python main.py
+python app.py
 ```
 
 # PyQt5 Uygulamasını Dağıtma Rehberi
